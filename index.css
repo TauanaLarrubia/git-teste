@@ -1,0 +1,8 @@
+h1 {
+    color: green;
+    background-color: aqua;
+    font-size: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+    width: 100px;
+}
